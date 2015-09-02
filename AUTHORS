@@ -1,0 +1,8 @@
+Author: Leonardo Pozzati.
+e-mail: leon.pozzati@gmail.com
+    
+Special thanks to
+- Vincenzo Lo Cicero <e-mail: vincenzo.locicero@libero.it > for myoptParser
+  ( files: myoptParser.h myoptLexer.h myoptLexer.c myoptSymtab.h myoptSymtab.c myoptParser.c )
+- Agner Fog < agner@agner.org > for Mersenne Twister
+	( files: randomc.h mersenne.cpp )
