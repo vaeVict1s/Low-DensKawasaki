@@ -4,4 +4,4 @@ namely a low-density lattice gas under Kawasaki dynamic
 around a condensation droplet.
 
 This simulation's output is analyzed with the Python program 
-in MultiFile repository.
+in multi_file repository.
